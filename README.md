@@ -1,5 +1,5 @@
 # Performance Optimierung und Datenqualitätsmanagement
-von ETL-Pipelines für IoT Daten — Abschlussarbeit
+von ETL-Pipelines für IoT Daten - Abschlussarbeit
 
 Streaming-ETL-Pipeline zur Verarbeitung von IoT-Sensordaten mit Databricks, Apache Kafka und Delta Lake nach der Medallion-Architektur.
 
